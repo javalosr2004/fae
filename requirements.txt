@@ -1,0 +1,6 @@
+keras==3.7.0
+matplotlib==3.9.2
+numpy==2.0.2
+requests==2.32.3
+tensorflow==2.18.0
+tensorflow-io-gcs-filesystem==0.37.1
